@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "kanji": "開ける",
+    "furigana": "あける",
+    "meaning": "Membuka",
+    "pasif": "開けられる",
+    "transitif": "開ける",
+    "intransitif": "開く"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "kanji": "閉める",
+    "furigana": "しめる",
+    "meaning": "Menutup",
+    "pasif": "閉められる",
+    "transitif": "閉める",
+    "intransitif": "閉まる"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "kanji": "入れる",
+    "furigana": "いれる",
+    "meaning": "Memasukkan",
+    "pasif": "入れられる",
+    "transitif": "入れる",
+    "intransitif": "入る"
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "kanji": "出す",
+    "furigana": "だす",
+    "meaning": "Mengeluarkan",
+    "pasif": "出される",
+    "transitif": "出す",
+    "intransitif": "出る"
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "kanji": "つける",
+    "furigana": "つける",
+    "meaning": "Menyalakan",
+    "pasif": "つけられる",
+    "transitif": "つける",
+    "intransitif": "つく"
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "kanji": "消す",
+    "furigana": "けす",
+    "meaning": "Mematikan / Menghapus",
+    "pasif": "消される",
+    "transitif": "消す",
+    "intransitif": "消える"
+  },
+  {
+    "id": 7,
+    "day": 1,
+    "kanji": "落とす",
+    "furigana": "おとす",
+    "meaning": "Menjatuhkan",
+    "pasif": "落とされる",
+    "transitif": "落とす",
+    "intransitif": "落ちる"
+  },
+  {
+    "id": 8,
+    "day": 1,
+    "kanji": "決める",
+    "furigana": "きめる",
+    "meaning": "Memutuskan",
+    "pasif": "決められる",
+    "transitif": "決める",
+    "intransitif": "決まる"
+  },
+  {
+    "id": 9,
+    "day": 1,
+    "kanji": "直す",
+    "furigana": "なおす",
+    "meaning": "Memperbaiki",
+    "pasif": "直される",
+    "transitif": "直す",
+    "intransitif": "直る"
+  },
+  {
+    "id": 10,
+    "day": 1,
+    "kanji": "始める",
+    "furigana": "はじめる",
+    "meaning": "Memulai",
+    "pasif": "始められる",
+    "transitif": "始める",
+    "intransitif": "始まる"
+  },
+  {
+    "id": 11,
+    "day": 2,
+    "kanji": "起こす",
+    "furigana": "おこす",
+    "meaning": "Membangunkan",
+    "pasif": "起こされる",
+    "transitif": "起こす",
+    "intransitif": "起きる"
+  },
+  {
+    "id": 12,
+    "day": 2,
+    "kanji": "乗せる",
+    "furigana": "のせる",
+    "meaning": "Menaikkan (ke kendaraan)",
+    "pasif": "乗せられる",
+    "transitif": "乗せる",
+    "intransitif": "乗る"
+  },
+  {
+    "id": 13,
+    "day": 2,
+    "kanji": "降ろす",
+    "furigana": "おろす",
+    "meaning": "Menurunkan (dari kendaraan)",
+    "pasif": "降ろされる",
+    "transitif": "降ろす",
+    "intransitif": "降りる"
+  },
+  {
+    "id": 14,
+    "day": 2,
+    "kanji": "沸かす",
+    "furigana": "わかす",
+    "meaning": "Mendidihkan",
+    "pasif": "沸かされる",
+    "transitif": "沸かす",
+    "intransitif": "沸く"
+  },
+  {
+    "id": 15,
+    "day": 2,
+    "kanji": "焼く",
+    "furigana": "やく",
+    "meaning": "Memanggang / Membakar",
+    "pasif": "焼かれる",
+    "transitif": "焼く",
+    "intransitif": "焼ける"
+  },
+  {
+    "id": 16,
+    "day": 2,
+    "kanji": "売る",
+    "furigana": "うる",
+    "meaning": "Menjual",
+    "pasif": "売られる",
+    "transitif": "売る",
+    "intransitif": "売れる"
+  },
+  {
+    "id": 17,
+    "day": 2,
+    "kanji": "止める",
+    "furigana": "とめる",
+    "meaning": "Menghentikan",
+    "pasif": "止められる",
+    "transitif": "止める",
+    "intransitif": "止まる"
+  },
+  {
+    "id": 18,
+    "day": 2,
+    "kanji": "集める",
+    "furigana": "あつめる",
+    "meaning": "Mengumpulkan",
+    "pasif": "集められる",
+    "transitif": "集める",
+    "intransitif": "集まる"
+  },
+  {
+    "id": 19,
+    "day": 2,
+    "kanji": "建てる",
+    "furigana": "たてる",
+    "meaning": "Membangun",
+    "pasif": "建てられる",
+    "transitif": "建てる",
+    "intransitif": "建つ"
+  },
+  {
+    "id": 20,
+    "day": 2,
+    "kanji": "汚す",
+    "furigana": "よごす",
+    "meaning": "Mengotori",
+    "pasif": "汚される",
+    "transitif": "汚す",
+    "intransitif": "汚れる"
+  },
+  {
+    "id": 21,
+    "day": 3,
+    "kanji": "割る",
+    "furigana": "わる",
+    "meaning": "Memecahkan",
+    "pasif": "割られる",
+    "transitif": "割る",
+    "intransitif": "割れる"
+  },
+  {
+    "id": 22,
+    "day": 3,
+    "kanji": "折る",
+    "furigana": "おる",
+    "meaning": "Mematahkan / Melipat",
+    "pasif": "折られる",
+    "transitif": "折る",
+    "intransitif": "折れる"
+  },
+  {
+    "id": 23,
+    "day": 3,
+    "kanji": "破る",
+    "furigana": "やぶる",
+    "meaning": "Merobek",
+    "pasif": "破られる",
+    "transitif": "破る",
+    "intransitif": "破れる"
+  },
+  {
+    "id": 24,
+    "day": 3,
+    "kanji": "曲げる",
+    "furigana": "まげる",
+    "meaning": "Membengkokkan",
+    "pasif": "曲げられる",
+    "transitif": "曲げる",
+    "intransitif": "曲がる"
+  },
+  {
+    "id": 25,
+    "day": 3,
+    "kanji": "並べる",
+    "furigana": "ならべる",
+    "meaning": "Menyusun / Membariskan",
+    "pasif": "並べられる",
+    "transitif": "並べる",
+    "intransitif": "並ぶ"
+  },
+  {
+    "id": 26,
+    "day": 3,
+    "kanji": "倒す",
+    "furigana": "たおす",
+    "meaning": "Menjatuhkan / Merobohkan",
+    "pasif": "倒される",
+    "transitif": "倒す",
+    "intransitif": "倒れる"
+  },
+  {
+    "id": 27,
+    "day": 3,
+    "kanji": "切る",
+    "furigana": "きる",
+    "meaning": "Memotong",
+    "pasif": "切られる",
+    "transitif": "切る",
+    "intransitif": "切れる"
+  },
+  {
+    "id": 28,
+    "day": 3,
+    "kanji": "育てる",
+    "furigana": "そだてる",
+    "meaning": "Membesarkan / Mendidik",
+    "pasif": "育てられる",
+    "transitif": "育てる",
+    "intransitif": "育つ"
+  },
+  {
+    "id": 29,
+    "day": 3,
+    "kanji": "隠す",
+    "furigana": "かくす",
+    "meaning": "Menyembunyikan",
+    "pasif": "隠される",
+    "transitif": "隠す",
+    "intransitif": "隠れる"
+  },
+  {
+    "id": 30,
+    "day": 3,
+    "kanji": "続ける",
+    "furigana": "つづける",
+    "meaning": "Melanjutkan",
+    "pasif": "続けられる",
+    "transitif": "続ける",
+    "intransitif": "続く"
+  },
+  {
+    "id": 31,
+    "day": 4,
+    "kanji": "見つける",
+    "furigana": "みつける",
+    "meaning": "Menemukan",
+    "pasif": "見つけられる",
+    "transitif": "見つける",
+    "intransitif": "見つかる"
+  },
+  {
+    "id": 32,
+    "day": 4,
+    "kanji": "助ける",
+    "furigana": "たすける",
+    "meaning": "Menolong / Menyelamatkan",
+    "pasif": "助けられる",
+    "transitif": "助ける",
+    "intransitif": "助かる"
+  },
+  {
+    "id": 33,
+    "day": 4,
+    "kanji": "変える",
+    "furigana": "かえる",
+    "meaning": "Mengubah",
+    "pasif": "変えられる",
+    "transitif": "変える",
+    "intransitif": "変わる"
+  },
+  {
+    "id": 34,
+    "day": 4,
+    "kanji": "冷やす",
+    "furigana": "ひやす",
+    "meaning": "Mendinginkan",
+    "pasif": "冷やされる",
+    "transitif": "冷やす",
+    "intransitif": "冷える"
+  },
+  {
+    "id": 35,
+    "day": 4,
+    "kanji": "温める",
+    "furigana": "あたためる",
+    "meaning": "Memanaskan / Menghangatkan",
+    "pasif": "温められる",
+    "transitif": "温める",
+    "intransitif": "温まる"
+  },
+  {
+    "id": 36,
+    "day": 4,
+    "kanji": "減らす",
+    "furigana": "へらす",
+    "meaning": "Mengurangi",
+    "pasif": "減らされる",
+    "transitif": "減らす",
+    "intransitif": "減る"
+  },
+  {
+    "id": 37,
+    "day": 4,
+    "kanji": "増やす",
+    "furigana": "ふやす",
+    "meaning": "Menambah",
+    "pasif": "増やされる",
+    "transitif": "増やす",
+    "intransitif": "増える"
+  },
+  {
+    "id": 38,
+    "day": 4,
+    "kanji": "回す",
+    "furigana": "まわす",
+    "meaning": "Memutar",
+    "pasif": "回される",
+    "transitif": "回す",
+    "intransitif": "回る"
+  },
+  {
+    "id": 39,
+    "day": 4,
+    "kanji": "返す",
+    "furigana": "かえす",
+    "meaning": "Mengembalikan",
+    "pasif": "返される",
+    "transitif": "返す",
+    "intransitif": "返る"
+  },
+  {
+    "id": 40,
+    "day": 4,
+    "kanji": "残す",
+    "furigana": "のこす",
+    "meaning": "Menyisakan / Meninggalkan",
+    "pasif": "残される",
+    "transitif": "残す",
+    "intransitif": "残る"
+  },
+  {
+    "id": 41,
+    "day": 5,
+    "kanji": "治す",
+    "furigana": "なおす",
+    "meaning": "Menyembuhkan (penyakit)",
+    "pasif": "治される",
+    "transitif": "治す",
+    "intransitif": "治る"
+  },
+  {
+    "id": 42,
+    "day": 5,
+    "kanji": "進める",
+    "furigana": "すすめる",
+    "meaning": "Memajukan / Meneruskan",
+    "pasif": "進められる",
+    "transitif": "進める",
+    "intransitif": "進む"
+  },
+  {
+    "id": 43,
+    "day": 5,
+    "kanji": "伝える",
+    "furigana": "つたえる",
+    "meaning": "Menyampaikan",
+    "pasif": "伝えられる",
+    "transitif": "伝える",
+    "intransitif": "伝わる"
+  },
+  {
+    "id": 44,
+    "day": 5,
+    "kanji": "届ける",
+    "furigana": "とどける",
+    "meaning": "Mengantarkan",
+    "pasif": "届けられる",
+    "transitif": "届ける",
+    "intransitif": "届く"
+  },
+  {
+    "id": 45,
+    "day": 5,
+    "kanji": "乾かす",
+    "furigana": "かわかす",
+    "meaning": "Mengeringkan",
+    "pasif": "乾かされる",
+    "transitif": "乾かす",
+    "intransitif": "乾く"
+  },
+  {
+    "id": 46,
+    "day": 5,
+    "kanji": "向ける",
+    "furigana": "むける",
+    "meaning": "Mengarahkan / Menghadapkan",
+    "pasif": "向けられる",
+    "transitif": "向ける",
+    "intransitif": "向く"
+  },
+  {
+    "id": 47,
+    "day": 5,
+    "kanji": "下げる",
+    "furigana": "さげる",
+    "meaning": "Menurunkan",
+    "pasif": "下げられる",
+    "transitif": "下げる",
+    "intransitif": "下がる"
+  },
+  {
+    "id": 48,
+    "day": 5,
+    "kanji": "上げる",
+    "furigana": "あげる",
+    "meaning": "Menaikkan",
+    "pasif": "上げられる",
+    "transitif": "上げる",
+    "intransitif": "上がる"
+  },
+  {
+    "id": 49,
+    "day": 5,
+    "kanji": "外す",
+    "furigana": "はずす",
+    "meaning": "Melepaskan / Membuka (kancing, dsb)",
+    "pasif": "外される",
+    "transitif": "外す",
+    "intransitif": "外れる"
+  },
+  {
+    "id": 50,
+    "day": 5,
+    "kanji": "動かす",
+    "furigana": "うごかす",
+    "meaning": "Menggerakkan",
+    "pasif": "動かされる",
+    "transitif": "動かす",
+    "intransitif": "動く"
+  },
+  {
+    "id": 51,
+    "day": 6,
+    "kanji": "預ける",
+    "furigana": "あずける",
+    "meaning": "Menitipkan",
+    "pasif": "預けられる",
+    "transitif": "預ける",
+    "intransitif": "預かる"
+  },
+  {
+    "id": 52,
+    "day": 6,
+    "kanji": "終える",
+    "furigana": "おえる",
+    "meaning": "Menyelesaikan / Mengakhiri",
+    "pasif": "終えられる",
+    "transitif": "終える",
+    "intransitif": "終わる"
+  },
+  {
+    "id": 53,
+    "day": 6,
+    "kanji": "替える",
+    "furigana": "かえる",
+    "meaning": "Mengganti (dengan yang baru)",
+    "pasif": "替えられる",
+    "transitif": "替える",
+    "intransitif": "替わる"
+  },
+  {
+    "id": 54,
+    "day": 6,
+    "kanji": "掛ける",
+    "furigana": "かける",
+    "meaning": "Menggantungkan / Mengalungkan",
+    "pasif": "掛けられる",
+    "transitif": "掛ける",
+    "intransitif": "掛かる"
+  },
+  {
+    "id": 55,
+    "day": 6,
+    "kanji": "片付ける",
+    "furigana": "かたづける",
+    "meaning": "Membereskan",
+    "pasif": "片付けられる",
+    "transitif": "片付ける",
+    "intransitif": "片付く"
+  },
+  {
+    "id": 56,
+    "day": 6,
+    "kanji": "壊す",
+    "furigana": "こわす",
+    "meaning": "Merusak",
+    "pasif": "壊される",
+    "transitif": "壊す",
+    "intransitif": "壊れる"
+  },
+  {
+    "id": 57,
+    "day": 6,
+    "kanji": "こぼす",
+    "furigana": "こぼす",
+    "meaning": "Menumpahkan",
+    "pasif": "こぼされる",
+    "transitif": "こぼす",
+    "intransitif": "こぼれる"
+  },
+  {
+    "id": 58,
+    "day": 6,
+    "kanji": "立てる",
+    "furigana": "たてる",
+    "meaning": "Mendirikan / Menegakkan",
+    "pasif": "立てられる",
+    "transitif": "立てる",
+    "intransitif": "立つ"
+  },
+  {
+    "id": 59,
+    "day": 6,
+    "kanji": "捕まえる",
+    "furigana": "つかまえる",
+    "meaning": "Menangkap",
+    "pasif": "捕まえられる",
+    "transitif": "捕まえる",
+    "intransitif": "捕まる"
+  },
+  {
+    "id": 60,
+    "day": 6,
+    "kanji": "照らす",
+    "furigana": "てらす",
+    "meaning": "Menerangi / Menyorot",
+    "pasif": "照らされる",
+    "transitif": "照らす",
+    "intransitif": "照る"
+  },
+  {
+    "id": 61,
+    "day": 7,
+    "kanji": "通す",
+    "furigana": "とおす",
+    "meaning": "Melewatkan / Membiarkan lewat",
+    "pasif": "通される",
+    "transitif": "通す",
+    "intransitif": "通る"
+  },
+  {
+    "id": 62,
+    "day": 7,
+    "kanji": "離す",
+    "furigana": "はなす",
+    "meaning": "Menjauhkan / Melepaskan",
+    "pasif": "離される",
+    "transitif": "離す",
+    "intransitif": "離れる"
+  },
+  {
+    "id": 63,
+    "day": 7,
+    "kanji": "冷ます",
+    "furigana": "さます",
+    "meaning": "Mendinginkan (makanan/minuman panas)",
+    "pasif": "冷まされる",
+    "transitif": "冷ます",
+    "intransitif": "冷める"
+  },
+  {
+    "id": 64,
+    "day": 7,
+    "kanji": "ぶつける",
+    "furigana": "ぶつける",
+    "meaning": "Menabrakkan / Membenturkan",
+    "pasif": "ぶつけられる",
+    "transitif": "ぶつける",
+    "intransitif": "ぶつかる"
+  },
+  {
+    "id": 65,
+    "day": 7,
+    "kanji": "広げる",
+    "furigana": "ひろげる",
+    "meaning": "Memperluas / Melebarkan",
+    "pasif": "広げられる",
+    "transitif": "広げる",
+    "intransitif": "広がる"
+  },
+  {
+    "id": 66,
+    "day": 7,
+    "kanji": "まとめる",
+    "furigana": "まとめる",
+    "meaning": "Meringkas / Menyimpulkan",
+    "pasif": "まとめられる",
+    "transitif": "まとめる",
+    "intransitif": "まとまる"
+  },
+  {
+    "id": 67,
+    "day": 7,
+    "kanji": "燃やす",
+    "furigana": "もやす",
+    "meaning": "Membakar",
+    "pasif": "燃やされる",
+    "transitif": "燃やす",
+    "intransitif": "燃える"
+  },
+  {
+    "id": 68,
+    "day": 7,
+    "kanji": "揺らす",
+    "furigana": "ゆらす",
+    "meaning": "Menggoyangkan / Mengayunkan",
+    "pasif": "揺らされる",
+    "transitif": "揺らす",
+    "intransitif": "揺れる"
+  },
+  {
+    "id": 69,
+    "day": 7,
+    "kanji": "分ける",
+    "furigana": "わける",
+    "meaning": "Membagi / Memisahkan",
+    "pasif": "分けられる",
+    "transitif": "分ける",
+    "intransitif": "分かれる"
+  },
+  {
+    "id": 70,
+    "day": 7,
+    "kanji": "合わせる",
+    "furigana": "あわせる",
+    "meaning": "Menyatukan / Menyesuaikan",
+    "pasif": "合わせられる",
+    "transitif": "合わせる",
+    "intransitif": "合う"
+  },
+  {
+    "id": 71,
+    "day": 8,
+    "kanji": "驚かす",
+    "furigana": "おどろかす",
+    "meaning": "Mengejutkan",
+    "pasif": "驚かされる",
+    "transitif": "驚かす",
+    "intransitif": "驚く"
+  },
+  {
+    "id": 72,
+    "day": 8,
+    "kanji": "喜ばせる",
+    "furigana": "よろこばせる",
+    "meaning": "Menggembirakan / Membuat senang",
+    "pasif": "喜ばせられる",
+    "transitif": "喜ばせる",
+    "intransitif": "喜ぶ"
+  },
+  {
+    "id": 73,
+    "day": 8,
+    "kanji": "延ばす",
+    "furigana": "のばす",
+    "meaning": "Memperpanjang (waktu/tenggat)",
+    "pasif": "延ばされる",
+    "transitif": "延ばす",
+    "intransitif": "延びる"
+  },
+  {
+    "id": 74,
+    "day": 8,
+    "kanji": "伸ばす",
+    "furigana": "のばす",
+    "meaning": "Meluruskan / Memanjangkan (benda/rambut)",
+    "pasif": "伸ばされる",
+    "transitif": "伸ばす",
+    "intransitif": "伸びる"
+  },
+  {
+    "id": 75,
+    "day": 8,
+    "kanji": "抜く",
+    "furigana": "ぬく",
+    "meaning": "Mencabut",
+    "pasif": "抜かれる",
+    "transitif": "抜く",
+    "intransitif": "抜ける"
+  },
+  {
+    "id": 76,
+    "day": 8,
+    "kanji": "むく",
+    "furigana": "むく",
+    "meaning": "Mengupas (kulit buah, dsb)",
+    "pasif": "むかれる",
+    "transitif": "むく",
+    "intransitif": "むける"
+  },
+  {
+    "id": 77,
+    "day": 8,
+    "kanji": "溶かす",
+    "furigana": "とかす",
+    "meaning": "Melelehkan / Melarutkan",
+    "pasif": "溶かされる",
+    "transitif": "溶かす",
+    "intransitif": "溶ける"
+  },
+  {
+    "id": 78,
+    "day": 8,
+    "kanji": "枯らす",
+    "furigana": "からす",
+    "meaning": "Melayukan / Membuat mati (tanaman)",
+    "pasif": "枯らされる",
+    "transitif": "枯らす",
+    "intransitif": "枯れる"
+  },
+  {
+    "id": 79,
+    "day": 8,
+    "kanji": "剥がす",
+    "furigana": "はがす",
+    "meaning": "Mengelupas / Mencopot",
+    "pasif": "剥がされる",
+    "transitif": "剥がす",
+    "intransitif": "剥がれる"
+  },
+  {
+    "id": 80,
+    "day": 8,
+    "kanji": "散らかす",
+    "furigana": "ちらかす",
+    "meaning": "Memberantakkan",
+    "pasif": "散らかされる",
+    "transitif": "散らかす",
+    "intransitif": "散らかる"
+  },
+  {
+    "id": 81,
+    "day": 9,
+    "kanji": "済ます",
+    "furigana": "すます",
+    "meaning": "Menyelesaikan",
+    "pasif": "済まされる",
+    "transitif": "済ます",
+    "intransitif": "済む"
+  },
+  {
+    "id": 82,
+    "day": 9,
+    "kanji": "飛ばす",
+    "furigana": "とばす",
+    "meaning": "Menerbangkan / Melewatkan",
+    "pasif": "飛ばされる",
+    "transitif": "飛ばす",
+    "intransitif": "飛ぶ"
+  },
+  {
+    "id": 83,
+    "day": 9,
+    "kanji": "寝かす",
+    "furigana": "ねかす",
+    "meaning": "Menidurkan / Membaringkan",
+    "pasif": "寝かされる",
+    "transitif": "寝かす",
+    "intransitif": "寝る"
+  },
+  {
+    "id": 84,
+    "day": 9,
+    "kanji": "鳴らす",
+    "furigana": "ならす",
+    "meaning": "Membunyikan",
+    "pasif": "鳴らされる",
+    "transitif": "鳴らす",
+    "intransitif": "鳴る"
+  },
+  {
+    "id": 85,
+    "day": 9,
+    "kanji": "逃がす",
+    "furigana": "にがす",
+    "meaning": "Melepaskan / Membiarkan lari",
+    "pasif": "逃がされる",
+    "transitif": "逃がす",
+    "intransitif": "逃げる"
+  },
+  {
+    "id": 86,
+    "day": 9,
+    "kanji": "負かす",
+    "furigana": "まかす",
+    "meaning": "Mengalahkan",
+    "pasif": "負かされる",
+    "transitif": "負かす",
+    "intransitif": "負ける"
+  },
+  {
+    "id": 87,
+    "day": 9,
+    "kanji": "晴らす",
+    "furigana": "はらす",
+    "meaning": "Menjernihkan / Menghilangkan (stres, keraguan)",
+    "pasif": "晴らされる",
+    "transitif": "晴らす",
+    "intransitif": "晴れる"
+  },
+  {
+    "id": 88,
+    "day": 9,
+    "kanji": "濡らす",
+    "furigana": "ぬらす",
+    "meaning": "Membasahi",
+    "pasif": "濡らされる",
+    "transitif": "濡らす",
+    "intransitif": "濡れる"
+  },
+  {
+    "id": 89,
+    "day": 9,
+    "kanji": "生やす",
+    "furigana": "はやす",
+    "meaning": "Menumbuhkan (kumis, jenggot)",
+    "pasif": "生やされる",
+    "transitif": "生やす",
+    "intransitif": "生える"
+  },
+  {
+    "id": 90,
+    "day": 9,
+    "kanji": "交える",
+    "furigana": "まじえる",
+    "meaning": "Mencampurkan / Menyertakan",
+    "pasif": "交えられる",
+    "transitif": "交える",
+    "intransitif": "交じる"
+  },
+  {
+    "id": 91,
+    "day": 10,
+    "kanji": "重ねる",
+    "furigana": "かさねる",
+    "meaning": "Menumpuk",
+    "pasif": "重ねられる",
+    "transitif": "重ねる",
+    "intransitif": "重なる"
+  },
+  {
+    "id": 92,
+    "day": 10,
+    "kanji": "隠す",
+    "furigana": "かくす",
+    "meaning": "Menyembunyikan",
+    "pasif": "隠される",
+    "transitif": "隠す",
+    "intransitif": "隠れる"
+  },
+  {
+    "id": 93,
+    "day": 10,
+    "kanji": "覚ます",
+    "furigana": "さます",
+    "meaning": "Membangunkan / Menyadarkan",
+    "pasif": "覚まされる",
+    "transitif": "覚ます",
+    "intransitif": "覚める"
+  },
+  {
+    "id": 94,
+    "day": 10,
+    "kanji": "向かう",
+    "furigana": "むかう",
+    "meaning": "Menuju ke",
+    "pasif": "向かわれる",
+    "transitif": "向ける",
+    "intransitif": "向かう"
+  },
+  {
+    "id": 95,
+    "day": 10,
+    "kanji": "生む",
+    "furigana": "うむ",
+    "meaning": "Melahirkan / Menghasilkan",
+    "pasif": "生まれる",
+    "transitif": "生む",
+    "intransitif": "生まれる"
+  },
+  {
+    "id": 96,
+    "day": 10,
+    "kanji": "沈める",
+    "furigana": "しずめる",
+    "meaning": "Menenggelamkan",
+    "pasif": "沈められる",
+    "transitif": "沈める",
+    "intransitif": "沈む"
+  },
+  {
+    "id": 97,
+    "day": 10,
+    "kanji": "揃える",
+    "furigana": "そろえる",
+    "meaning": "Menyusun / Menyamakan",
+    "pasif": "揃えられる",
+    "transitif": "揃える",
+    "intransitif": "揃う"
+  },
+  {
+    "id": 98,
+    "day": 10,
+    "kanji": "続ける",
+    "furigana": "つづける",
+    "meaning": "Melanjutkan",
+    "pasif": "続けられる",
+    "transitif": "続ける",
+    "intransitif": "続く"
+  },
+  {
+    "id": 99,
+    "day": 10,
+    "kanji": "乗せる",
+    "furigana": "のせる",
+    "meaning": "Menaikkan / Memuat",
+    "pasif": "乗せられる",
+    "transitif": "乗せる",
+    "intransitif": "乗る"
+  },
+  {
+    "id": 100,
+    "day": 10,
+    "kanji": "込む",
+    "furigana": "こむ",
+    "meaning": "Menjadi sesak / Ramai",
+    "pasif": "込まれる",
+    "transitif": "込める",
+    "intransitif": "込む"
+  },
+  {
+    "id": 101,
+    "day": 11,
+    "kanji": "丸める",
+    "furigana": "まるめる",
+    "meaning": "Menggulung / Membulatkan",
+    "pasif": "丸められる",
+    "transitif": "丸める",
+    "intransitif": "丸まる"
+  },
+  {
+    "id": 102,
+    "day": 11,
+    "kanji": "固める",
+    "furigana": "かためる",
+    "meaning": "Mengeraskan / Membekukan",
+    "pasif": "固められる",
+    "transitif": "固める",
+    "intransitif": "固まる"
+  },
+  {
+    "id": 103,
+    "day": 11,
+    "kanji": "弱める",
+    "furigana": "よわめる",
+    "meaning": "Melemahkan",
+    "pasif": "弱められる",
+    "transitif": "弱める",
+    "intransitif": "弱まる"
+  },
+  {
+    "id": 104,
+    "day": 11,
+    "kanji": "強める",
+    "furigana": "つよめる",
+    "meaning": "Menguatkan",
+    "pasif": "強められる",
+    "transitif": "強める",
+    "intransitif": "強まる"
+  },
+  {
+    "id": 105,
+    "day": 11,
+    "kanji": "高める",
+    "furigana": "たかめる",
+    "meaning": "Meninggikan / Menaikkan",
+    "pasif": "高められる",
+    "transitif": "高める",
+    "intransitif": "高まる"
+  },
+  {
+    "id": 106,
+    "day": 11,
+    "kanji": "深める",
+    "furigana": "ふかめる",
+    "meaning": "Memperdalam",
+    "pasif": "深められる",
+    "transitif": "深める",
+    "intransitif": "深まる"
+  },
+  {
+    "id": 107,
+    "day": 11,
+    "kanji": "広める",
+    "furigana": "ひろめる",
+    "meaning": "Menyebarluaskan",
+    "pasif": "広められる",
+    "transitif": "広める",
+    "intransitif": "広まる"
+  },
+  {
+    "id": 108,
+    "day": 11,
+    "kanji": "狭める",
+    "furigana": "せばめる",
+    "meaning": "Mempersempit",
+    "pasif": "狭められる",
+    "transitif": "狭める",
+    "intransitif": "狭まる"
+  },
+  {
+    "id": 109,
+    "day": 11,
+    "kanji": "薄める",
+    "furigana": "うすめる",
+    "meaning": "Mengencerkan / Menipiskan",
+    "pasif": "薄められる",
+    "transitif": "薄める",
+    "intransitif": "薄まる"
+  },
+  {
+    "id": 110,
+    "day": 11,
+    "kanji": "早める",
+    "furigana": "はやめる",
+    "meaning": "Mempercepat",
+    "pasif": "早められる",
+    "transitif": "早める",
+    "intransitif": "早まる"
+  },
+  {
+    "id": 111,
+    "day": 12,
+    "kanji": "暖める",
+    "furigana": "あたためる",
+    "meaning": "Menghangatkan (udara/ruangan)",
+    "pasif": "暖められる",
+    "transitif": "暖める",
+    "intransitif": "暖まる"
+  },
+  {
+    "id": 112,
+    "day": 12,
+    "kanji": "静める",
+    "furigana": "しずめる",
+    "meaning": "Menenangkan / Meredakan",
+    "pasif": "静められる",
+    "transitif": "静める",
+    "intransitif": "静まる"
+  },
+  {
+    "id": 113,
+    "day": 12,
+    "kanji": "痛める",
+    "furigana": "いためる",
+    "meaning": "Menyakiti / Merusak (tubuh/barang)",
+    "pasif": "痛められる",
+    "transitif": "痛める",
+    "intransitif": "痛む"
+  },
+  {
+    "id": 114,
+    "day": 12,
+    "kanji": "苦しめる",
+    "furigana": "くるしめる",
+    "meaning": "Menyiksa / Menyusahkan",
+    "pasif": "苦しめられる",
+    "transitif": "苦しめる",
+    "intransitif": "苦しむ"
+  },
+  {
+    "id": 115,
+    "day": 12,
+    "kanji": "散らす",
+    "furigana": "ちらす",
+    "meaning": "Menebarkan / Menaburkan",
+    "pasif": "散らされる",
+    "transitif": "散らす",
+    "intransitif": "散る"
+  },
+  {
+    "id": 116,
+    "day": 12,
+    "kanji": "焦がす",
+    "furigana": "こがす",
+    "meaning": "Menghanguskan",
+    "pasif": "焦がされる",
+    "transitif": "焦がす",
+    "intransitif": "焦げる"
+  },
+  {
+    "id": 117,
+    "day": 12,
+    "kanji": "生かす",
+    "furigana": "いかす",
+    "meaning": "Membiarkan hidup / Memanfaatkan",
+    "pasif": "生かされる",
+    "transitif": "生かす",
+    "intransitif": "生きる"
+  },
+  {
+    "id": 118,
+    "day": 12,
+    "kanji": "慣らす",
+    "furigana": "ならす",
+    "meaning": "Membiasakan",
+    "pasif": "慣らされる",
+    "transitif": "慣らす",
+    "intransitif": "慣れる"
+  },
+  {
+    "id": 119,
+    "day": 12,
+    "kanji": "怒らせる",
+    "furigana": "おこらせる",
+    "meaning": "Membuat marah",
+    "pasif": "怒らせられる",
+    "transitif": "怒らせる",
+    "intransitif": "怒る"
+  },
+  {
+    "id": 120,
+    "day": 12,
+    "kanji": "泣かせる",
+    "furigana": "なかせる",
+    "meaning": "Membuat menangis",
+    "pasif": "泣かせられる",
+    "transitif": "泣かせる",
+    "intransitif": "泣く"
+  },
+  {
+    "id": 121,
+    "day": 13,
+    "kanji": "笑わせる",
+    "furigana": "わらわせる",
+    "meaning": "Membuat tertawa",
+    "pasif": "笑わせられる",
+    "transitif": "笑わせる",
+    "intransitif": "笑う"
+  },
+  {
+    "id": 122,
+    "day": 13,
+    "kanji": "困らせる",
+    "furigana": "こまらせる",
+    "meaning": "Menyusahkan / Membuat repot",
+    "pasif": "困らせられる",
+    "transitif": "困らせる",
+    "intransitif": "困る"
+  },
+  {
+    "id": 123,
+    "day": 13,
+    "kanji": "迷わせる",
+    "furigana": "まよわせる",
+    "meaning": "Membingungkan / Membuat tersesat",
+    "pasif": "迷わせられる",
+    "transitif": "迷わせる",
+    "intransitif": "迷う"
+  },
+  {
+    "id": 124,
+    "day": 13,
+    "kanji": "腐らせる",
+    "furigana": "くさらせる",
+    "meaning": "Membusukkan",
+    "pasif": "腐らせられる",
+    "transitif": "腐らせる",
+    "intransitif": "腐る"
+  },
+  {
+    "id": 125,
+    "day": 13,
+    "kanji": "転がす",
+    "furigana": "ころがす",
+    "meaning": "Menggelindingkan",
+    "pasif": "転がされる",
+    "transitif": "転がす",
+    "intransitif": "転がる"
+  },
+  {
+    "id": 126,
+    "day": 13,
+    "kanji": "傾ける",
+    "furigana": "かたむける",
+    "meaning": "Memiringkan",
+    "pasif": "傾けられる",
+    "transitif": "傾ける",
+    "intransitif": "傾く"
+  },
+  {
+    "id": 127,
+    "day": 13,
+    "kanji": "裂く",
+    "furigana": "さく",
+    "meaning": "Merobek / Membelah",
+    "pasif": "裂かれる",
+    "transitif": "裂く",
+    "intransitif": "裂ける"
+  },
+  {
+    "id": 128,
+    "day": 13,
+    "kanji": "砕く",
+    "furigana": "くだく",
+    "meaning": "Menghancurkan",
+    "pasif": "砕かれる",
+    "transitif": "砕く",
+    "intransitif": "砕ける"
+  },
+  {
+    "id": 129,
+    "day": 13,
+    "kanji": "解く",
+    "furigana": "とく",
+    "meaning": "Melepas ikatan / Memecahkan (masalah)",
+    "pasif": "解かれる",
+    "transitif": "解く",
+    "intransitif": "解ける"
+  },
+  {
+    "id": 130,
+    "day": 13,
+    "kanji": "脱ぐ",
+    "furigana": "ぬぐ",
+    "meaning": "Melepas (pakaian/sepatu)",
+    "pasif": "脱がされる",
+    "transitif": "脱ぐ",
+    "intransitif": "脱げる"
+  },
+  {
+    "id": 131,
+    "day": 14,
+    "kanji": "すり減らす",
+    "furigana": "すりへらす",
+    "meaning": "Mengauskan / Menipiskan (dengan gesekan)",
+    "pasif": "すり減らされる",
+    "transitif": "すり減らす",
+    "intransitif": "すり減る"
+  },
+  {
+    "id": 132,
+    "day": 14,
+    "kanji": "満たす",
+    "furigana": "みたす",
+    "meaning": "Memenuhi",
+    "pasif": "満たされる",
+    "transitif": "満たす",
+    "intransitif": "満ちる"
+  },
+  {
+    "id": 133,
+    "day": 14,
+    "kanji": "漏らす",
+    "furigana": "もらす",
+    "meaning": "Membocorkan / Membiarkan bocor",
+    "pasif": "漏らされる",
+    "transitif": "漏らす",
+    "intransitif": "漏れる"
+  },
+  {
+    "id": 134,
+    "day": 14,
+    "kanji": "省く",
+    "furigana": "はぶく",
+    "meaning": "Meniadakan / Menghemat",
+    "pasif": "省かれる",
+    "transitif": "省く",
+    "intransitif": "省ける"
+  },
+  {
+    "id": 135,
+    "day": 14,
+    "kanji": "放す",
+    "furigana": "はなす",
+    "meaning": "Melepaskan / Membebaskan",
+    "pasif": "放される",
+    "transitif": "放す",
+    "intransitif": "放れる"
+  },
+  {
+    "id": 136,
+    "day": 14,
+    "kanji": "ずらす",
+    "furigana": "ずらす",
+    "meaning": "Menggeser",
+    "pasif": "ずらされる",
+    "transitif": "ずらす",
+    "intransitif": "ずれる"
+  },
+  {
+    "id": 137,
+    "day": 14,
+    "kanji": "崩す",
+    "furigana": "くずす",
+    "meaning": "Meruntuhkan / Menghancurkan bentuk",
+    "pasif": "崩される",
+    "transitif": "崩す",
+    "intransitif": "崩れる"
+  },
+  {
+    "id": 138,
+    "day": 14,
+    "kanji": "荒らす",
+    "furigana": "あらす",
+    "meaning": "Mengacaukan / Merusak (keadaan)",
+    "pasif": "荒らされる",
+    "transitif": "荒らす",
+    "intransitif": "荒れる"
+  },
+  {
+    "id": 139,
+    "day": 14,
+    "kanji": "腫らす",
+    "furigana": "はらす",
+    "meaning": "Membuat bengkak",
+    "pasif": "腫らされる",
+    "transitif": "腫らす",
+    "intransitif": "腫れる"
+  },
+  {
+    "id": 140,
+    "day": 14,
+    "kanji": "擦る",
+    "furigana": "こする",
+    "meaning": "Menggosok",
+    "pasif": "擦られる",
+    "transitif": "擦る",
+    "intransitif": "擦れる"
+  },
+  {
+    "id": 141,
+    "day": 15,
+    "kanji": "潰す",
+    "furigana": "つぶす",
+    "meaning": "Menghancurkan / Memeras",
+    "pasif": "潰される",
+    "transitif": "潰す",
+    "intransitif": "潰れる"
+  },
+  {
+    "id": 142,
+    "day": 15,
+    "kanji": "載せる",
+    "furigana": "のせる",
+    "meaning": "Memuat (ke artikel/buku/kendaraan)",
+    "pasif": "載せられる",
+    "transitif": "載せる",
+    "intransitif": "載る"
+  },
+  {
+    "id": 143,
+    "day": 15,
+    "kanji": "添える",
+    "furigana": "そえる",
+    "meaning": "Menyertakan / Melampirkan",
+    "pasif": "添えられる",
+    "transitif": "添える",
+    "intransitif": "添う"
+  },
+  {
+    "id": 144,
+    "day": 15,
+    "kanji": "貯める",
+    "furigana": "ためる",
+    "meaning": "Menabung",
+    "pasif": "貯められる",
+    "transitif": "貯める",
+    "intransitif": "貯まる"
+  },
+  {
+    "id": 145,
+    "day": 15,
+    "kanji": "溜める",
+    "furigana": "ためる",
+    "meaning": "Menumpuk (air/pekerjaan)",
+    "pasif": "溜められる",
+    "transitif": "溜める",
+    "intransitif": "溜まる"
+  },
+  {
+    "id": 146,
+    "day": 15,
+    "kanji": "混ぜる",
+    "furigana": "まぜる",
+    "meaning": "Mencampur",
+    "pasif": "混ぜられる",
+    "transitif": "混ぜる",
+    "intransitif": "混ざる"
+  },
+  {
+    "id": 147,
+    "day": 15,
+    "kanji": "当てる",
+    "furigana": "あてる",
+    "meaning": "Mengenai sasaran / Menebak",
+    "pasif": "当てられる",
+    "transitif": "当てる",
+    "intransitif": "当たる"
+  },
+  {
+    "id": 148,
+    "day": 15,
+    "kanji": "儲ける",
+    "furigana": "もうける",
+    "meaning": "Mendapat keuntungan",
+    "pasif": "儲けられる",
+    "transitif": "儲ける",
+    "intransitif": "儲かる"
+  },
+  {
+    "id": 149,
+    "day": 15,
+    "kanji": "植える",
+    "furigana": "うえる",
+    "meaning": "Menanam",
+    "pasif": "植えられる",
+    "transitif": "植える",
+    "intransitif": "植わる"
+  },
+  {
+    "id": 150,
+    "day": 15,
+    "kanji": "埋める",
+    "furigana": "うめる",
+    "meaning": "Mengubur / Menimbun",
+    "pasif": "埋められる",
+    "transitif": "埋める",
+    "intransitif": "埋まる"
+  },
+  {
+    "id": 151,
+    "day": 16,
+    "kanji": "詰める",
+    "furigana": "つめる",
+    "meaning": "Menyumbat / Memadatkan",
+    "pasif": "詰められる",
+    "transitif": "詰める",
+    "intransitif": "詰まる"
+  },
+  {
+    "id": 152,
+    "day": 16,
+    "kanji": "縮める",
+    "furigana": "ちぢめる",
+    "meaning": "Menyusutkan / Memendekkan",
+    "pasif": "縮められる",
+    "transitif": "縮める",
+    "intransitif": "縮む"
+  },
+  {
+    "id": 153,
+    "day": 16,
+    "kanji": "浮かべる",
+    "furigana": "うかべる",
+    "meaning": "Mengapungkan",
+    "pasif": "浮かべられる",
+    "transitif": "浮かべる",
+    "intransitif": "浮かぶ"
+  },
+  {
+    "id": 154,
+    "day": 16,
+    "kanji": "引き下げる",
+    "furigana": "ひきさげる",
+    "meaning": "Menarik ke bawah / Menurunkan",
+    "pasif": "引き下げられる",
+    "transitif": "引き下げる",
+    "intransitif": "引き下がる"
+  },
+  {
+    "id": 155,
+    "day": 16,
+    "kanji": "引き上げる",
+    "furigana": "ひきあげる",
+    "meaning": "Menarik ke atas / Menaikkan",
+    "pasif": "引き上げられる",
+    "transitif": "引き上げる",
+    "intransitif": "引き上がる"
+  },
+  {
+    "id": 156,
+    "day": 16,
+    "kanji": "持ち上げる",
+    "furigana": "もちあげる",
+    "meaning": "Mengangkat (ke atas)",
+    "pasif": "持ち上げられる",
+    "transitif": "持ち上げる",
+    "intransitif": "持ち上がる"
+  },
+  {
+    "id": 157,
+    "day": 16,
+    "kanji": "跳ね上げる",
+    "furigana": "はねあげる",
+    "meaning": "Melonjakkan / Melompatkan",
+    "pasif": "跳ね上げられる",
+    "transitif": "跳ね上げる",
+    "intransitif": "跳ね上がる"
+  },
+  {
+    "id": 158,
+    "day": 16,
+    "kanji": "盛り上げる",
+    "furigana": "もりあげる",
+    "meaning": "Memeriahkan / Membuat memuncak",
+    "pasif": "盛り上げられる",
+    "transitif": "盛り上げる",
+    "intransitif": "盛り上がる"
+  },
+  {
+    "id": 159,
+    "day": 16,
+    "kanji": "仕上げる",
+    "furigana": "しあげる",
+    "meaning": "Menyelesaikan (hasil akhir)",
+    "pasif": "仕上げられる",
+    "transitif": "仕上げる",
+    "intransitif": "仕上がる"
+  },
+  {
+    "id": 160,
+    "day": 16,
+    "kanji": "納める",
+    "furigana": "おさめる",
+    "meaning": "Membayar (pajak) / Menyetor",
+    "pasif": "納められる",
+    "transitif": "納める",
+    "intransitif": "納まる"
+  },
+  {
+    "id": 161,
+    "day": 17,
+    "kanji": "収める",
+    "furigana": "おさめる",
+    "meaning": "Menyimpan / Memasukkan",
+    "pasif": "収められる",
+    "transitif": "収める",
+    "intransitif": "収まる"
+  },
+  {
+    "id": 162,
+    "day": 17,
+    "kanji": "治める",
+    "furigana": "おさめる",
+    "meaning": "Memerintah / Mengendalikan",
+    "pasif": "治められる",
+    "transitif": "治める",
+    "intransitif": "治まる"
+  },
+  {
+    "id": 163,
+    "day": 17,
+    "kanji": "とどめる",
+    "furigana": "とどめる",
+    "meaning": "Menghentikan / Menyisakan",
+    "pasif": "とどめられる",
+    "transitif": "とどめる",
+    "intransitif": "とどまる"
+  },
+  {
+    "id": 164,
+    "day": 17,
+    "kanji": "傷つける",
+    "furigana": "きずつける",
+    "meaning": "Melukai",
+    "pasif": "傷つけられる",
+    "transitif": "傷つける",
+    "intransitif": "傷つく"
+  },
+  {
+    "id": 165,
+    "day": 17,
+    "kanji": "くっつける",
+    "furigana": "くっつける",
+    "meaning": "Menempelkan",
+    "pasif": "くっつけられる",
+    "transitif": "くっつける",
+    "intransitif": "くっつく"
+  },
+  {
+    "id": 166,
+    "day": 17,
+    "kanji": "近づける",
+    "furigana": "ちかづける",
+    "meaning": "Mendekatkan",
+    "pasif": "近づけられる",
+    "transitif": "近づける",
+    "intransitif": "近づく"
+  },
+  {
+    "id": 167,
+    "day": 17,
+    "kanji": "遠ざける",
+    "furigana": "とおざける",
+    "meaning": "Menjauhkan",
+    "pasif": "遠ざけられる",
+    "transitif": "遠ざける",
+    "intransitif": "遠ざかる"
+  },
+  {
+    "id": 168,
+    "day": 17,
+    "kanji": "引っ掛ける",
+    "furigana": "ひっかける",
+    "meaning": "Mengkaitkan / Menipu",
+    "pasif": "引っ掛けられる",
+    "transitif": "引っ掛ける",
+    "intransitif": "引っ掛かる"
+  },
+  {
+    "id": 169,
+    "day": 17,
+    "kanji": "組み立てる",
+    "furigana": "くみたてる",
+    "meaning": "Merakit",
+    "pasif": "組み立てられる",
+    "transitif": "組み立てる",
+    "intransitif": "組み立つ"
+  },
+  {
+    "id": 170,
+    "day": 17,
+    "kanji": "役立てる",
+    "furigana": "やくだてる",
+    "meaning": "Memanfaatkan / Menggunakan",
+    "pasif": "役立てられる",
+    "transitif": "役立てる",
+    "intransitif": "役立つ"
+  },
+  {
+    "id": 171,
+    "day": 18,
+    "kanji": "際立てる",
+    "furigana": "きわだてる",
+    "meaning": "Membuat menonjol",
+    "pasif": "際立てられる",
+    "transitif": "際立てる",
+    "intransitif": "際立つ"
+  },
+  {
+    "id": 172,
+    "day": 18,
+    "kanji": "隔てる",
+    "furigana": "へだてる",
+    "meaning": "Memisahkan / Menyekat",
+    "pasif": "隔てられる",
+    "transitif": "隔てる",
+    "intransitif": "隔たる"
+  },
+  {
+    "id": 173,
+    "day": 18,
+    "kanji": "挟む",
+    "furigana": "はさむ",
+    "meaning": "Menjepit / Menyisipkan",
+    "pasif": "挟まれる",
+    "transitif": "挟む",
+    "intransitif": "挟まる"
+  },
+  {
+    "id": 174,
+    "day": 18,
+    "kanji": "つなぐ",
+    "furigana": "つなぐ",
+    "meaning": "Menyambungkan / Mengikatkan",
+    "pasif": "つながれる",
+    "transitif": "つなぐ",
+    "intransitif": "つながる"
+  },
+  {
+    "id": 175,
+    "day": 18,
+    "kanji": "繋げる",
+    "furigana": "つなげる",
+    "meaning": "Menghubungkan",
+    "pasif": "繋げられる",
+    "transitif": "繋げる",
+    "intransitif": "繋がる"
+  },
+  {
+    "id": 176,
+    "day": 18,
+    "kanji": "絡める",
+    "furigana": "からめる",
+    "meaning": "Melilitkan / Mencampurkan",
+    "pasif": "絡められる",
+    "transitif": "絡める",
+    "intransitif": "絡む"
+  },
+  {
+    "id": 177,
+    "day": 18,
+    "kanji": "染める",
+    "furigana": "そめる",
+    "meaning": "Mewarnai / Mencelup",
+    "pasif": "染められる",
+    "transitif": "染める",
+    "intransitif": "染まる"
+  },
+  {
+    "id": 178,
+    "day": 18,
+    "kanji": "定める",
+    "furigana": "さだめる",
+    "meaning": "Menetapkan / Menentukan",
+    "pasif": "定められる",
+    "transitif": "定める",
+    "intransitif": "定まる"
+  },
+  {
+    "id": 179,
+    "day": 18,
+    "kanji": "従える",
+    "furigana": "したがえる",
+    "meaning": "Membawa serta / Menundukkan",
+    "pasif": "従えられる",
+    "transitif": "従える",
+    "intransitif": "従う"
+  },
+  {
+    "id": 180,
+    "day": 18,
+    "kanji": "備える",
+    "furigana": "そなえる",
+    "meaning": "Mempersiapkan / Memperlengkapi",
+    "pasif": "備えられる",
+    "transitif": "備える",
+    "intransitif": "備わる"
+  },
+  {
+    "id": 181,
+    "day": 19,
+    "kanji": "加える",
+    "furigana": "くわえる",
+    "meaning": "Menambahkan",
+    "pasif": "加えられる",
+    "transitif": "加える",
+    "intransitif": "加わる"
+  },
+  {
+    "id": 182,
+    "day": 19,
+    "kanji": "代える",
+    "furigana": "かえる",
+    "meaning": "Menggantikan peran/fungsi",
+    "pasif": "代えられる",
+    "transitif": "代える",
+    "intransitif": "代わる"
+  },
+  {
+    "id": 183,
+    "day": 19,
+    "kanji": "換える",
+    "furigana": "かえる",
+    "meaning": "Menukarkan (dengan yang senilai)",
+    "pasif": "換えられる",
+    "transitif": "換える",
+    "intransitif": "換わる"
+  },
+  {
+    "id": 184,
+    "day": 19,
+    "kanji": "輝かす",
+    "furigana": "かがやかす",
+    "meaning": "Membuat bersinar",
+    "pasif": "輝かされる",
+    "transitif": "輝かす",
+    "intransitif": "輝く"
+  },
+  {
+    "id": 185,
+    "day": 19,
+    "kanji": "狂わす",
+    "furigana": "くるわす",
+    "meaning": "Membuat kacau/gila",
+    "pasif": "狂わされる",
+    "transitif": "狂わす",
+    "intransitif": "狂う"
+  },
+  {
+    "id": 186,
+    "day": 19,
+    "kanji": "絶やす",
+    "furigana": "たやす",
+    "meaning": "Memusnahkan / Memadamkan",
+    "pasif": "絶やされる",
+    "transitif": "絶やす",
+    "intransitif": "絶える"
+  },
+  {
+    "id": 187,
+    "day": 19,
+    "kanji": "滅ぼす",
+    "furigana": "ほろぼす",
+    "meaning": "Menghancurkan (suatu kaum/negara)",
+    "pasif": "滅ぼされる",
+    "transitif": "滅ぼす",
+    "intransitif": "滅びる"
+  },
+  {
+    "id": 188,
+    "day": 19,
+    "kanji": "及ぼす",
+    "furigana": "およぼす",
+    "meaning": "Menimbulkan (pengaruh/efek)",
+    "pasif": "及ぼされる",
+    "transitif": "及ぼす",
+    "intransitif": "及ぶ"
+  },
+  {
+    "id": 189,
+    "day": 19,
+    "kanji": "授ける",
+    "furigana": "さずける",
+    "meaning": "Menganugerahkan",
+    "pasif": "授けられる",
+    "transitif": "授ける",
+    "intransitif": "授かる"
+  },
+  {
+    "id": 190,
+    "day": 19,
+    "kanji": "甘やかす",
+    "furigana": "あまやかす",
+    "meaning": "Memanjakan",
+    "pasif": "甘やかされる",
+    "transitif": "甘やかす",
+    "intransitif": "甘える"
+  },
+  {
+    "id": 191,
+    "day": 20,
+    "kanji": "伸びる",
+    "furigana": "のびる",
+    "meaning": "Memanjang (intransitif, transitif: 伸ばす)",
+    "pasif": "伸ばされる",
+    "transitif": "伸ばす",
+    "intransitif": "伸びる"
+  },
+  {
+    "id": 192,
+    "day": 20,
+    "kanji": "生じる",
+    "furigana": "しょうじる",
+    "meaning": "Melahirkan / Timbul",
+    "pasif": "生じられる",
+    "transitif": "生じる",
+    "intransitif": "生じる"
+  },
+  {
+    "id": 193,
+    "day": 20,
+    "kanji": "重んじる",
+    "furigana": "おもんじる",
+    "meaning": "Mementingkan",
+    "pasif": "重んじられる",
+    "transitif": "重んじる",
+    "intransitif": "重んずる"
+  },
+  {
+    "id": 194,
+    "day": 20,
+    "kanji": "信じる",
+    "furigana": "しんじる",
+    "meaning": "Mempercayai",
+    "pasif": "信じられる",
+    "transitif": "信じる",
+    "intransitif": "信ずる"
+  },
+  {
+    "id": 195,
+    "day": 20,
+    "kanji": "通じる",
+    "furigana": "つうじる",
+    "meaning": "Mengalirkan / Tersambung",
+    "pasif": "通じられる",
+    "transitif": "通じる",
+    "intransitif": "通じる"
+  },
+  {
+    "id": 196,
+    "day": 20,
+    "kanji": "閉じる",
+    "furigana": "とじる",
+    "meaning": "Menutup (mata/buku)",
+    "pasif": "閉じられる",
+    "transitif": "閉じる",
+    "intransitif": "閉じる"
+  },
+  {
+    "id": 197,
+    "day": 20,
+    "kanji": "明かす",
+    "furigana": "あかす",
+    "meaning": "Mengungkapkan (rahasia) / Menghabiskan malam",
+    "pasif": "明かされる",
+    "transitif": "明かす",
+    "intransitif": "明ける"
+  },
+  {
+    "id": 198,
+    "day": 20,
+    "kanji": "生む",
+    "furigana": "うむ",
+    "meaning": "Menghasilkan / Melahirkan",
+    "pasif": "生まれる",
+    "transitif": "生む",
+    "intransitif": "生まれる"
+  },
+  {
+    "id": 199,
+    "day": 20,
+    "kanji": "隠す",
+    "furigana": "かくす",
+    "meaning": "Menutupi / Menyembunyikan",
+    "pasif": "隠される",
+    "transitif": "隠す",
+    "intransitif": "隠れる"
+  },
+  {
+    "id": 200,
+    "day": 20,
+    "kanji": "増す",
+    "furigana": "ます",
+    "meaning": "Menambah / Bertambah",
+    "pasif": "増される",
+    "transitif": "増す",
+    "intransitif": "増す"
+  }
+]
